@@ -48,4 +48,5 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: miki023/kiii-jenkins:latest
+          tags: miki023/miki023:latest
+
